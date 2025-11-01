@@ -1,1 +1,1 @@
-# Day-of-the-Programmer
+# Day-of-the-Programmer This code determines the "Day of the Programmer" (256th day of the year) for a given year, accounting for Julian leap years, Gregorian leap years, and the special transition year 1918. It returns the date as a string in `dd.mm.yyyy` format based on these calendar rules.
